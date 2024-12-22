@@ -60,8 +60,4 @@ This project was completed as part of a **Capstone Project by Intellipaat**, foc
 ## 📬 **Connect with Me**  
 If you have feedback or collaboration ideas, feel free to reach out via:  
 - **LinkedIn:** https://www.linkedin.com/in/mdshoaib02/  
-- **Email:** shoaib786gola@gmail.com 
-
----
-
-Feel free to personalize the **Connect with Me** section and tweak the tone to suit your style. Let me know if you need any help with customization! 🚀
+- **Email:** shoaib786gola@gmail.com
